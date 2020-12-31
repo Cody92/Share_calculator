@@ -1,0 +1,4 @@
+Date,Company Name,Inversted Amount,Base Price,Final Price,No of shares,Brokerage,Profit/Loss,Profit Target,Application
+D2020-08-26 00:07:20.559047,,50000.0,51.2,52.05062868852459,976,301.4136,,500.0,Share_calc_targeted
+D2020-09-03 06:50:58.466304,,50000.0,30.0,31.396122448979593,1666,305.94,,2000.0,Share_calc_targeted
+D2020-09-03 06:50:23.823770,,50000.0,30.0,35.0,1666,324.87,8005.13,,Share_calc

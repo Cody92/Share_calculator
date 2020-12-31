@@ -1,0 +1,15 @@
+Normal Sell       :  Normal selling of stocks (buying at low price and selling                          at high price)
+
+Short Sell        :  Short selling of stocks (buying at high prices and selling 		     at low price. Used when stock is going down)
+
+Brokerage(%)      :  Brokerage percent taken per share by your broker.
+
+Investment Amount :  Total investment amount you want to invest.
+
+Base Price        :  Price at which you wnat to buy the share.
+
+Final Price       :  Price at which you want to sell the share.
+
+Profit Target     :  Final profit you want to achieve in Rs.
+
+No. of Shares     :  Total no of shares that can be bought with the invested                            amount.
